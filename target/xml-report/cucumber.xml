@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="48.176">
+    <testcase classname="US1009 Datatables sitesine 5 farkli giris yapalim" name="TC14 kullanici 5 farkli kayit girisi yapabilmeli" time="14.943">
+        <system-out>
+            <![CDATA[When kullanici "datatablesUrl" sayfasina gider..............................passed
+Then new butonuna basar.....................................................passed
+And isim bolumune "Berk" yazar..............................................passed
+And kullanici 1 sn bekler...................................................passed
+And soyisim bolumune "Can" yazar............................................passed
+And kullanici 1 sn bekler...................................................passed
+And position bolumune "tester" yazar........................................passed
+And kullanici 1 sn bekler...................................................passed
+And ofis bolumune "ankara" yazar............................................passed
+And kullanici 1 sn bekler...................................................passed
+And extension bolumune "api" yazar..........................................passed
+And kullanici 1 sn bekler...................................................passed
+And startDate bolumune "2022-05-05" yazar...................................passed
+And kullanici 1 sn bekler...................................................passed
+And salary bolumune "11000" yazar...........................................passed
+And kullanici 1 sn bekler...................................................passed
+And Create tusuna basar.....................................................passed
+When kullanici "Berk" ile arama yapar.......................................passed
+And kullanici 1 sn bekler...................................................passed
+Then isim bolumunde "Berk" oldugunu test eder...............................passed
+And kullanici 1 sn bekler...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US1009 Datatables sitesine 5 farkli giris yapalim" name="TC14 kullanici 5 farkli kayit girisi yapabilmeli 2" time="10.097">
+        <system-out>
+            <![CDATA[When kullanici "datatablesUrl" sayfasina gider..............................passed
+Then new butonuna basar.....................................................passed
+And isim bolumune "Huseyin" yazar...........................................passed
+And kullanici 1 sn bekler...................................................passed
+And soyisim bolumune "Kacmaz" yazar.........................................passed
+And kullanici 1 sn bekler...................................................passed
+And position bolumune "BA" yazar............................................passed
+And kullanici 1 sn bekler...................................................passed
+And ofis bolumune "berlin" yazar............................................passed
+And kullanici 1 sn bekler...................................................passed
+And extension bolumune "UI" yazar...........................................passed
+And kullanici 1 sn bekler...................................................passed
+And startDate bolumune "2022-07-10" yazar...................................passed
+And kullanici 1 sn bekler...................................................passed
+And salary bolumune "40000" yazar...........................................passed
+And kullanici 1 sn bekler...................................................passed
+And Create tusuna basar.....................................................passed
+When kullanici "Huseyin" ile arama yapar....................................passed
+And kullanici 1 sn bekler...................................................passed
+Then isim bolumunde "Huseyin" oldugunu test eder............................passed
+And kullanici 1 sn bekler...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US1009 Datatables sitesine 5 farkli giris yapalim" name="TC14 kullanici 5 farkli kayit girisi yapabilmeli 3" time="12.221">
+        <system-out>
+            <![CDATA[When kullanici "datatablesUrl" sayfasina gider..............................passed
+Then new butonuna basar.....................................................passed
+And isim bolumune "Fatih" yazar.............................................passed
+And kullanici 1 sn bekler...................................................passed
+And soyisim bolumune "Sahin" yazar..........................................passed
+And kullanici 1 sn bekler...................................................passed
+And position bolumune "PO" yazar............................................passed
+And kullanici 1 sn bekler...................................................passed
+And ofis bolumune "berlin" yazar............................................passed
+And kullanici 1 sn bekler...................................................passed
+And extension bolumune "Appium" yazar.......................................passed
+And kullanici 1 sn bekler...................................................passed
+And startDate bolumune "2022-03-12" yazar...................................passed
+And kullanici 1 sn bekler...................................................passed
+And salary bolumune "45000" yazar...........................................passed
+And kullanici 1 sn bekler...................................................passed
+And Create tusuna basar.....................................................passed
+When kullanici "Fatih" ile arama yapar......................................passed
+And kullanici 1 sn bekler...................................................passed
+Then isim bolumunde "Fatih" oldugunu test eder..............................passed
+And kullanici 1 sn bekler...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US1009 Datatables sitesine 5 farkli giris yapalim" name="TC14 kullanici 5 farkli kayit girisi yapabilmeli 4" time="10.352">
+        <system-out>
+            <![CDATA[When kullanici "datatablesUrl" sayfasina gider..............................passed
+Then new butonuna basar.....................................................passed
+And isim bolumune "Ahmet" yazar.............................................passed
+And kullanici 1 sn bekler...................................................passed
+And soyisim bolumune "Kaya" yazar...........................................passed
+And kullanici 1 sn bekler...................................................passed
+And position bolumune "Tester" yazar........................................passed
+And kullanici 1 sn bekler...................................................passed
+And ofis bolumune "ankara" yazar............................................passed
+And kullanici 1 sn bekler...................................................passed
+And extension bolumune "database" yazar.....................................passed
+And kullanici 1 sn bekler...................................................passed
+And startDate bolumune "2022-06-06" yazar...................................passed
+And kullanici 1 sn bekler...................................................passed
+And salary bolumune "11000" yazar...........................................passed
+And kullanici 1 sn bekler...................................................passed
+And Create tusuna basar.....................................................passed
+When kullanici "Ahmet" ile arama yapar......................................passed
+And kullanici 1 sn bekler...................................................passed
+Then isim bolumunde "Ahmet" oldugunu test eder..............................passed
+And kullanici 1 sn bekler...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US1009 Datatables sitesine 5 farkli giris yapalim" name="kapat" time="0.078">
+        <system-out>
+            <![CDATA[And sayfayi kapatir.........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
